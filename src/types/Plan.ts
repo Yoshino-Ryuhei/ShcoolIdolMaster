@@ -1,0 +1,1 @@
+export type Plan  = "Sense" | "Logic" | "Anomaly" | "Free"

@@ -1,0 +1,1 @@
+export type CardType = "Active" | "Mental" | "Trouble"
